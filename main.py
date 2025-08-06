@@ -10,7 +10,7 @@ from aiogram.enums import ParseMode
 
 # --- Sozlamalar ---
 # @BotFather dan olgan bot tokeningizni shu yerga qo'ying
-BOT_TOKEN = "7713895772:AAET7IEQNyxOxSuFmXuYH3yvpiV0x27Wkfk"
+BOT_TOKEN = ""
 
 # Siz taqdim etgan API uchun ma'lumotlar
 API_URL = "https://api-dyxless.cfd/query"
